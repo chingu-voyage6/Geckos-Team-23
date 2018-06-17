@@ -1,7 +1,7 @@
 
 # Geckos-Team-23
 
-Help2Save - 
+Help2Save -
 
 > Helping hand to human society
 
@@ -9,21 +9,21 @@ Help2Save -
 
 ## Help2Save
 
-This is an application which support human society to help each other in aspect of life saving. For an example if we have an urgency of transfusion then help2save will came to help us. It provide a platform to their active members to collaborate between them and fulfill the urgency.
+This is an application which provides the society to close a blood transfusion request in an crowd sourcing setup. For an example if we have an urgency of transfusion then help2save will came in handy. It will provide a platform to its active members to collaborate between them and fulfill the request.
 
 ## Application Features
 Help2Save work in four steps
 
- 1. Create/request/generate for requirement
- 2.  Validate/verify/check of requirement
- 3. Spared/distribute/contact each other for fulfillment of requirement
- 4. Close/response/thanks giving who fulfill their mat requirement
+ 1. Create/request/generate a requirement.
+ 2. Validate/verify/check of requirement.
+ 3. Spread/distribute/contact details of requirement to close it faster using crowd sourcing.
+ 4. Close/complete the requirement once a confirmation from original requestor is received.
 
 ## MVP
 
 1.) Normal website fill up form for registration with basic details
 
-2.) Group Chat to communicate group members
+2.) Group Chat to communicate with group members
 
 3.) Create and tag member request
 
@@ -33,7 +33,7 @@ Help2Save work in four steps
 
 6.) Close topic once fulfill.
 
-7.) Submit feedback of requester and fulfillmenter to analysis of application feature
+7.) Submit feedback of requester and fulfillmentor for the analysis of application feature
 
 ## Future Release
 These are extension of features
