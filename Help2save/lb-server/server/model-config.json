@@ -12,5 +12,27 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "User": {
+    "dataSource": "help2save-ds"
+  },
+  "AccessToken": {
+    "dataSource": "help2save-ds",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "help2save-ds",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "help2save-ds",
+    "public": false,
+    "options": {
+      "strictObjectIDCoercion": true
+    }
+  },
+  "Role": {
+    "dataSource": "help2save-ds",
+    "public": false
   }
 }
