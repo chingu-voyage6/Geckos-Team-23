@@ -1,0 +1,12 @@
+{
+  "help2save-ds": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "help2save-db",
+    "password": "",
+    "name": "help2save-ds",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
